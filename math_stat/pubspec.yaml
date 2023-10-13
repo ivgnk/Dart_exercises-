@@ -10,6 +10,7 @@ environment:
 dependencies:
   intl: ^0.18.1
   io: ^1.0.4
+  matrix2d: ^1.0.4
   # path: ^1.8.0
 
 dev_dependencies:
