@@ -10,7 +10,7 @@ JDK
 **https://www.oracle.com/java/technologies/downloads**                             
 https://jdk.java.net                                   
 
-[Установка JDK в Windows](https://java-lessons.ru/first-steps/install-jdk-windows)                                               
+**[Установка JDK в Windows](https://java-lessons.ru/first-steps/install-jdk-windows)**                                                                        
 
 
 ### VS Code
