@@ -3,6 +3,11 @@
 ## Installation
 
 ### Java
+JDK
+**https://www.oracle.com/java/technologies/downloads**
+https://jdk.java.net
+
+
 [stackoverflow: Java JDK, SDK, SE?](https://stackoverflow.com/questions/10858193/java-jdk-sdk-se)                     
 [отличие Java SDK и Java JRE](https://ya.ru/images/search?from=tabbar&text=отличие%20Java%20SDK%20и%20Java%20JRE)                    
 
