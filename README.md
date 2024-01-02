@@ -1,6 +1,6 @@
 # Dart_exercises-
 
-## Installation
+## Installations
 
 ### Java
 [stackoverflow: Java JDK, SDK, SE?](https://stackoverflow.com/questions/10858193/java-jdk-sdk-se)                         
