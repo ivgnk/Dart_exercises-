@@ -13,7 +13,11 @@ https://jdk.java.net
 **[Установка JDK в Windows](https://java-lessons.ru/first-steps/install-jdk-windows)**                                                                        
 
 ### Flutter
-[flutter.dev: Start building Flutter native desktop apps on Windows](https://docs.flutter.dev/get-started/install/windows/desktop)         
+[flutter.dev: Start building Flutter native desktop apps on Windows](https://docs.flutter.dev/get-started/install/windows/desktop)       
+https://developer.android.com/tools/variables#envar           
+**https://developer.android.com/tools**
+**https://developer.android.com/tools/sdkmanager**
+**https://stackoverflow.com/questions/69612325/flutter-doctor-cant-find-sdkmanager**                       
 - - -
 **https://get.dev/#success-stories**
 
