@@ -17,7 +17,8 @@ https://jdk.java.net
 https://developer.android.com/tools/variables#envar           
 **https://developer.android.com/tools**
 **https://developer.android.com/tools/sdkmanager**
-**https://stackoverflow.com/questions/69612325/flutter-doctor-cant-find-sdkmanager**                       
+**https://stackoverflow.com/questions/69612325/flutter-doctor-cant-find-sdkmanager**        
+20.04.2022 https://www.developers-zone.com/how-to-install-flutter-on-windows-11-on-vs-code                      
 - - -
 **https://get.dev/#success-stories**
 
