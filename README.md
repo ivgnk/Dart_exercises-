@@ -13,7 +13,9 @@ https://jdk.java.net
 **[Установка JDK в Windows](https://java-lessons.ru/first-steps/install-jdk-windows)**                                                                        
 
 ### Flutter
-[flutter.dev: Start building Flutter native desktop apps on Windows](https://docs.flutter.dev/get-started/install/windows/desktop)                         
+[flutter.dev: Start building Flutter native desktop apps on Windows](https://docs.flutter.dev/get-started/install/windows/desktop)         
+- - -
+**https://get.dev/#success-stories**
 
 ### Android Studio
 25.06.2019 [Правильная установка Android Studio на компьютер](https://lumpics.ru/install-android-studio-on-computer)
